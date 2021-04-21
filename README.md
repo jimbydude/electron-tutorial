@@ -1,4 +1,4 @@
-Update as needed
+Update as needed.
 
 # Some useful git aliases
 ```
