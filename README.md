@@ -1,6 +1,7 @@
 
 
 # Some useful git aliases
+```
 alias.p=push
 alias.st=status -sb
 alias.ll=log --oneline
@@ -11,3 +12,4 @@ alias.d=diff
 alias.dv=difftool -t vimdiff -y
 alias.gl=config --global -l
 alias.se=!git rev-list --all | xargs git grep -F
+```
