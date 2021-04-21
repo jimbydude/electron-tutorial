@@ -12,4 +12,6 @@ alias.d=diff
 alias.dv=difftool -t vimdiff -y
 alias.gl=config --global -l
 alias.se=!git rev-list --all | xargs git grep -F
+alias.unstage=reset HEAD --
+alias.adol=add .
 ```
